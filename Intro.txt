@@ -1,0 +1,113 @@
+applications:
+-online recommendations
+-google maps
+-weather predictions
+-medical diagnosis
+-spam filtering
+-credit decisions
+-self-driving cars
+
+
+
+companies:
+-google
+-ibm
+-microsoft
+-twitter
+-intel
+-apple
+-pindrop
+
+
+tasks of ML?
+-program that learns from experience
+-automatically improve
+-adapt to new environment(samples)
+
+
+advantages?
+-complex relationships can be modeled
+-adaptable to changing environments
+
+
+APPLICATION OF ML TO LARGE DATABASES IS CALLED DATA MINING.
+
+Types of ML
+* Supervised - outcome variable is known (e.g- spam predictions)
+     two categories: classification and regression 
+* Unsupervised -  try to find hidden patterns using clusturing techniques
+
+
+Another type of ML - Reinforcement Learning (a feedback(eg points) is given to the agent for its decisions, using which it learns.
+
+SUPERVISED:
+-neural networks
+-decision trees
+-bayesian learning
+-ensemble learning
+-rule-based learning
+-support vector machines
+-evolutionary algo
+
+Steps in Model Development:
+Problem definiton -> selection of variables(dependent and independent) -> Data Collection(using some techniques) -> Selection of data analysis techniques
+-> Data preprocessing(identifying the outliers, etc) -> Model training -> model validation -> prediction of new instances
+
+
+Selecting Variables:
+Discrete-nominal(e,g- sex), ordinal(e.g- humidity(high,medium,low))
+Continuous- Interval(e.g- temp), Ratio(e.g- weight), Absolute
+Selection of VAriables is based on:
+ - Researcher's experience
+ - existing published researchs
+ - advice from mentor
+
+
+Data Collection(from S/W repositories):
+-Academic (developed by university students)
+-Industrial (some private organization)
+-Public (open source public repositories)
+
+
+Selection of ML technique
+Criteria :
+- Type of Dependent variable
+- Nature of Data Set (Diversity, Redundancy,type and existence of interactions among variables, size of training set)
+- Imp. aspects of diff algo (Accuracy-predictive power, speed, interpetability- understandability, simplicity)
+- Other (Ability to handle missing values, Sensitivity to outliers, Ability to handle class imbalance, Ability to handle non-vector data, 
+           Efficacy in high dimensions, Accuracy od class probability estimates)
+ * Synthetic sampling      
+ * Need to satisfy pre-qualifications to use a technique
+
+
+
+Model Development:
+ 1. Divide data into two parts-training and testing(hold-out (2/3 training + 1/3 testing. only applicable on large data sets), K-fold cross validation, 
+     Leave-one-out Validation)
+ 2. Selecting the relevant   
+
+Concerns in model prediction :
+ 1. Overfitting(empirical error is very less, generalization error is very large)- learns noise rather than relationships
+ 2. High variance - ()
+ 3. High bias - (increase independent variables)
+
+
+//Generating new songs of kishor kumar using deep learning algorithm.
+
+
+
+
+
+ML ALGOs:
+ 1. Decision trees
+ 2. K-nearest value
+ 3. Naive Bayesian classification - based on prior probability
+
+
+
+
+
+
+
+
+
