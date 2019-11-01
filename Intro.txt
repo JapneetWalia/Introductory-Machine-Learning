@@ -102,6 +102,9 @@ ML ALGOs:
  1. Decision trees
  2. K-nearest value
  3. Naive Bayesian classification - based on prior probability
+ 4. SVM
+ 5. Random Forest
+ 6. AdaBoost
 
 
 
